@@ -1,0 +1,201 @@
+body{
+    margin:0;
+    font-family: 'Merriweather', serif;
+}
+
+.top-container{
+    background-color: #C8F2EF;
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    height: 49.5rem;
+    width: 94.34rem;
+}
+
+.middle-container{
+    text-align: center;
+}
+
+.bottom-container{
+    text-align: center;
+    background-color: #243D25;
+    color: #ffffff;
+}
+
+.intro{
+    font-size: 90px;
+    padding-top: 40px;
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+}
+
+.introjoke{
+    font-size: 2.188rem;
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    padding:0px;
+    position: relative;
+    bottom:40px;
+}
+
+.introjoke_1{
+    font-size: 1.25rem;
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    padding:0px;
+    position: relative;
+    bottom:55px;
+
+}
+
+.top_cloud{
+    position: absolute;
+    right:350px;
+    top:70px;
+    height: 60px;
+}
+
+.btm_cloud{
+    position: absolute;
+    left:400px;
+    top:300px;
+    height: 60px;
+}
+
+.mountain{
+    height: 500px;
+    position: relative;
+    bottom:115px;
+    padding-bottom: 0;
+    margin:0px;
+}
+
+.profile{
+    width: 100%;
+    margin:0px;
+    text-align: left;
+    line-height: 2;
+    height: 795px;
+    background-color: #B4ECE3;
+}
+
+.heya{
+    margin:0;
+    padding: 80px 0 0 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+}
+
+.profile-pic{
+    border-radius: 100%;
+    width: 20%;
+    float:left;
+    margin:70px 110px 0 110px;
+}
+
+.computer{
+    border-radius: 100%;
+    width: 20%;
+    float: left;
+    margin:0px 110px 0 110px;
+}
+
+.about_me{
+    font-size: 1.25rem;
+    font-family: 'Montserrat', sans-serif;
+    padding:12px 150px 30px 250px;
+    width: 70%;
+    text-align: left;
+    line-height: 2;
+}
+
+.history{
+    width: 22%;
+    position: relative;
+    top:45px;
+    left:20px;
+}
+
+.prog{
+    width: 20%;
+    position: relative;
+    left:60px;
+}
+
+.astro{
+    width: 25%;
+    position: relative;
+    bottom:8px;
+    left:80px;  
+}
+
+.maths{
+    width: 25%;
+    position: relative;
+    bottom: 25px;
+    left:80px;
+}
+
+.skills{
+    background-color: #8FBDD3;
+    margin: 0;
+    width: 100%;
+    height: 795px;
+}
+
+.my_skill{
+    margin:0;
+    padding:50px;
+}
+
+.abc{
+    margin:50px 0 0 1px;
+    font-size:23px;
+    float: left;
+}
+
+.prog_des{
+    font-size: 1.25rem;
+    font-family: 'Montserrat', sans-serif;
+    padding:100px 150px 0px 250px;
+    width: 70%;
+    text-align: left;
+    line-height: 2;
+}
+
+.python{
+    width:15%;  
+    position: relative;
+    top: 120px;
+    right:400px;
+}
+
+.cpp{
+    width:15%;  
+    position: relative;
+    top: 120px;
+    right:300px;
+}
+
+.html{
+    width:15%;  
+    position: relative;
+    top: 120px;
+    right:200px;
+}
+
+.css{
+    width:15%;  
+    position: relative;
+    top: 120px;
+    right:100px;
+}
+
+.git{
+    margin:0;
+}
+
+.copy{
+    margin:0;
+    padding: 10px;
+}
