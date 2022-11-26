@@ -12,6 +12,14 @@ body{
     width: 94.34rem;
 }
 
+.assignment{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 30px;
+    background-color: yellow;
+}
+
 .middle-container{
     text-align: center;
 }
